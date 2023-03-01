@@ -1,7 +1,7 @@
 # code-refactor
 
 
-![screen shot](./assets/images/digital-marketing-meeting.jpg);
+![screen shot](./assets/images/digital-marketing-meeting.jpg)
 
 Horieson Code-Refactor
 
@@ -9,5 +9,5 @@ I did a code refactor for Horiseon's website. The starter code needed modificati
 
 Modifications:
 1. Rename title and links to be more descriptive
-2. Added navigation tag
-3. Added comments
+2. Added navigation tag, sections, id selector, alt attributes, and comments
+
